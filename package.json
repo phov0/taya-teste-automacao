@@ -1,0 +1,19 @@
+{
+  "name": "taya-teste-automacao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "phov0",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^19.7.4",
+    "puppeteer-core": "^19.7.4",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}
